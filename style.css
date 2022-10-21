@@ -80,9 +80,18 @@ align-items: center;
     text-decoration: none;
   }
 
-  li{
+  li {
     display: block;
     padding-right: 16px;
+    text-decoration: none;
+  }
+
+  .nav-links a {
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    padding: 16px;
+    color: #b05d04;
   }
   
     /*      Title section      */
