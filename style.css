@@ -36,12 +36,14 @@ figure img{
     height: 18em;
     width: 14em;
 }
+/*      Navbar      */
 .navbar {
     display: flex;
     align-items: center;
     width: 100%;
     position: fixed;
     background-color: rgb(230, 250, 250);
+    font-size: 28px;
 }
 
 .header-logo {
@@ -77,6 +79,8 @@ figure img{
     padding-right: 16px;
   }
   
+    /*      Title section      */
+
   .title-section{
     display: flex;
     justify-content: center;
@@ -87,6 +91,8 @@ figure img{
         rgba(57, 60, 90, 0.85),
         rgba(180, 180, 120, 0.5)
     );
+    background-position: center;
+    background-size: cover;
   }
 
   .media-box{
@@ -98,7 +104,7 @@ figure img{
     gap: 24px;
     padding: 32px;
     border: 3px solid rgb(209, 88, 8);
-    border-radius: 200px;
+    border-radius: 100px;
     box-shadow: 2px 2px 20px 2px;
     background: rgba(57, 60, 90, 0.85)
   }
@@ -110,6 +116,7 @@ figure img{
     align-items: flex-start;
     gap: 20px;
     padding-left: 32px;
+    margin-left: 26px;
   }
 
   .textbox h1{
@@ -121,8 +128,8 @@ figure img{
     object-fit: cover;
     flex: 1 1 auto;
     max-width: 300px;
-    border: 15px solid rgb(209, 88, 8);
-    border-radius: 20%;
+    border: 10px solid rgb(209, 88, 8);
+    border-radius: 15%;
   }
 
   .boo-button{
@@ -134,5 +141,5 @@ figure img{
   }
   
   p{
-    margin-left: 26px;
+
   }
