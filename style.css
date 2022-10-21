@@ -221,3 +221,10 @@ align-items: center;
     border-radius: 4px;
     background-color: rgb(209, 88, 8);
 }
+
+footer p {
+    padding: 24px;
+    text-align: center;
+    color: black;
+    background-color:rgb(24,60,60);
+  }
