@@ -2,7 +2,7 @@ body{
     margin: 0;
     height: 100%;
     display: flex;
-    font-size: 40px;
+    font-size: 35px;
     flex-direction: row;
     justify-content: space-around;
     color: #b05d04;
@@ -31,6 +31,10 @@ figure{
     flex-wrap: wrap;
     justify-content: space-around;
 
+}
+figure img{
+    height: 18em;
+    width: 14em;
 }
 .navbar {
     display: flex;
@@ -127,4 +131,8 @@ figure{
     border-radius: 4px;
     background-color: rgb(209, 88, 8);
     align-self: center;
+  }
+  
+  p{
+    margin-left: 26px;
   }
