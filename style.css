@@ -229,3 +229,8 @@ footer p {
     color: black;
     background-color:rgb(24,60,60);
   }
+
+  .monster-container{
+    display: flex;
+    flex-direction: row;
+  }
