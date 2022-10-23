@@ -30,7 +30,7 @@ figure{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    
+    align-items: center;
 
 }
 figure img{
@@ -41,6 +41,7 @@ figure img{
 figcaption{
 display: flex;
 align-items: center;
+padding: 20px;
 }
 
 /*      Navbar      */
@@ -234,4 +235,7 @@ footer p {
   .monster-container{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+   
+    width: 100%;
   }
