@@ -37,6 +37,9 @@ figure img{
     height: 9em;
     width: 7em;
 }
+figure last-child{
+align-self: center;
+}
 
 figcaption{
 display: flex;
@@ -236,6 +239,9 @@ footer p {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-   
+   align-items: center;
     width: 100%;
+    justify-content: center;
   }
+
+  
