@@ -1,1 +1,5 @@
-making a halloween website
+made my first interactive website
+
+halloween themed
+
+veeeerrrry spoooooky 
