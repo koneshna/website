@@ -7,6 +7,7 @@ body{
     justify-content: space-around;
     color: #b05d04;
     background-color: black;
+    width: 100vw;
 }
 
 img{ 
@@ -51,7 +52,7 @@ padding: 20px;
 .navbar {
     display: flex;
     align-items: center;
-    width: 100%;
+    width: 100vw;
     position: fixed;
     background-color:rgb(24,60,60);
     font-size: 28px;
@@ -113,6 +114,7 @@ padding: 20px;
     );
     background-position: center;
     background-size: cover;
+    width: 100vw;
   }
 
   .media-box{
