@@ -43,7 +43,7 @@ align-self: center;
 }
 
 figcaption{
-display: flex;
+display: table;
 align-items: center;
 padding: 20px;
 caption-side: top;
