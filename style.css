@@ -28,7 +28,7 @@ h1{
 }
 figure{
     text-align: center;
-    display: flex;
+    display: table;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
@@ -46,6 +46,7 @@ figcaption{
 display: flex;
 align-items: center;
 padding: 20px;
+caption-side: top;
 }
 
 /*      Navbar      */
