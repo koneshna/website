@@ -243,8 +243,9 @@ footer p {
     flex-direction: row;
     flex-wrap: wrap;
    align-items: center;
-    width: 100%;
+    width: 100vw;
     justify-content: center;
+    justify-self: center;
   }
 
   
